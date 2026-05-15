@@ -55,6 +55,7 @@ while True:
 ## OUTPUT - ARP
 ## Server side
 <img width="885" height="204" alt="Screenshot 2026-05-15 135923" src="https://github.com/user-attachments/assets/2a28283e-c4cc-4702-90c7-7593fa5d83ce" />
+
 ## Client side
 <img width="889" height="245" alt="Screenshot 2026-05-15 135953" src="https://github.com/user-attachments/assets/1776a210-bdf6-44d6-81c7-414d1681af4d" />
 
@@ -85,10 +86,13 @@ while True:
     print("Logical Address",s.recv(1024).decode())
 ```
 ## OUTPUT -RARP
+
 ## Server side
 <img width="1854" height="137" alt="image" src="https://github.com/user-attachments/assets/2c1f1fef-7b16-4be9-9c6d-e5367b5e3f79" />
+
 ## Client side
 <img width="1847" height="238" alt="image" src="https://github.com/user-attachments/assets/884981fc-4818-40a1-a4dc-59e988435315" />
+
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
